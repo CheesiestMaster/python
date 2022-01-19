@@ -1,5 +1,5 @@
 # - *- coding: utf- 8 - *-
-def main():
+def code():
   theta = int(input("θ = "))
   print(theta % 360)
-main()
+code()
