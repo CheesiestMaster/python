@@ -20,4 +20,4 @@ import io
 f=io.open(filename, 'w', encoding="utf-8")
 f.write(r.text)
 f.close()
-from dynamictmp import code
+import dynamictmp
